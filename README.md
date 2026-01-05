@@ -71,4 +71,4 @@ The player can switch between realms in real time to solve traversal and combat 
 - **Language:** C#
 - **Tools:** Unity Editor, ProBuilder
 - **Lighting:** Mixed real-time and baked lighting
-- **AI:** Basic enemy
+- **AI:** Basic enemy and a Boss in the 3rd level
