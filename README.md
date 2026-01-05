@@ -54,4 +54,56 @@ The player can switch between realms in real time to solve traversal and combat 
   - Introduction to movement and platforming mechanics.
 
 - **Level 2**
-  - Introducti
+  - Introduction to realm-switching.
+  - Collectibles are visible only in the Spiritual realm.
+
+- **Level 3**
+  - Introduction to combat mechanics.
+  - Enemies require realm awareness to defeat.
+
+---
+
+## Controls
+
+| Action | Key |
+|------|-----|
+| Move | WASD |
+| Jump | Space |
+| Realm Switch | Q |
+| Shoot | Mouse Click |
+
+---
+
+## Technology Stack
+
+- **Engine:** Unity 3D  
+- **Language:** C#  
+- **Tools:** Unity Editor, ProBuilder  
+- **Lighting:** Mixed real-time and baked lighting  
+- **AI:** Basic enemy behavior and wave spawning logic  
+
+---
+
+## Project Status
+
+The project is a **playable prototype** developed to demonstrate core gameplay systems and mechanics.
+
+Potential future improvements include:
+- Enhanced combat feedback
+- Improved enemy AI behavior
+- Visual effects for realm transitions
+- Performance optimization
+
+---
+
+## Authors
+
+- **Mohibullah Sherwani**  
+  Email: mohibkhansherwani@gmail.com
+
+- **Abu Zar Babar**  
+  Email: abuzarbabar5@gmail.com
+
+---
+
+
